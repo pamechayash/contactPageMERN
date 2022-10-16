@@ -1,0 +1,16 @@
+.back{
+    background-image: url(../src/assets/bg-texture.png);
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    background-color:rgb(31, 29, 100)
+}
+.Contentcontainer{
+    display: flex;
+    flex-direction: column;
+justify-content: center;
+align-items: center;
+color: wheat;
+    background-color: rgba(52, 53, 54,0.5);
+}
